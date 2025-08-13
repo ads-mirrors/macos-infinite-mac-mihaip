@@ -3,3 +3,4 @@
 
 # Ignore Emscripten-generated JavaScript files
 src/emulator/*.js linguist-generated
+.github/ merge=ours
